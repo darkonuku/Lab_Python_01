@@ -1,0 +1,38 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+EXERCISE 4
+
+Enter your first name: nuku
+Enter your last name: darko
+Enter your date of birth: 
+
+Month?: July
+Day?5
+Year?1999
+nuku darko is born on July 5 , 1999
+>>> ================================ RESTART ================================
+>>> 
+EXERCISE 4
+
+Enter your first name: Nuku
+Enter your last name: Darko
+Enter your date of birth: 
+Month?: Jan
+Day?1
+Year?1980
+Nuku Darko is born on Jan 1, 1980
+>>> ================================ RESTART ================================
+>>> 
+EXERCISE 4
+
+Enter your first name: Nuku
+Enter your last name: Darko
+Enter your date of birth: 
+	Month?: Jan
+	Day?9
+	Year?1920
+Nuku Darko is born on Jan 9, 1920
+>>> 
